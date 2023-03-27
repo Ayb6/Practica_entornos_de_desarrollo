@@ -50,7 +50,7 @@ public abstract class algoritmos {
 	 * @param numero
 	 * @return
 	 */
-	public static boolean esPrimo(int numero) {
+	public static boolean Primo(int numero) {
 		if (numero == 0 || numero == 1 || numero == 4) {
 			return false;
 		}

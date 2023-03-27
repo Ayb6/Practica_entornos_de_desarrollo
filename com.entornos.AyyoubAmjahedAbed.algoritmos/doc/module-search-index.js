@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"com.entornos.AyyoubAmjahedAbed.algoritmos"}];updateSearchResults();

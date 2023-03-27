@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.entornos.AyyoubAmjahedAbed.algoritmos","l":"algoritmos"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.entornos.AyyoubAmjahedAbed.algoritmos","l":"Principal"}];updateSearchResults();
